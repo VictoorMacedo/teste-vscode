@@ -19,3 +19,6 @@ setInterval( ()=> {
     console.clear();
     console.table(apresentacao)
 },1000)
+
+
+console.log('victor')
